@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [ "$#" -ne 3 ]; then
+    echo "WRONG"
+    exit 1
+fi
+
+artist=$1
+album=$2
+path=$3
+
+java -jar /lib/manatee/manatee.jar "$artist" "$album" "$path"
