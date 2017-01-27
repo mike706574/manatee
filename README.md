@@ -4,7 +4,7 @@ Utility for tagging audi files. Most definitely broken.
 
 ## Copyright and License
 
-All rights reserved. The use and distribution terms for this software are covered by the
+The use and distribution terms for this software are covered by the
 [Eclipse Public License 1.0] which can be found in the file
 epl-v10.html at the root of this distribution. By using this software
 in any fashion, you are agreeing to be bound by the terms of this
