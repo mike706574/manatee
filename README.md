@@ -1,6 +1,6 @@
 # manatee
 
-Utility for tagging audio files. Most definitely broken.
+Utility for tagging audio files.
 
 ## Copyright and License
 
